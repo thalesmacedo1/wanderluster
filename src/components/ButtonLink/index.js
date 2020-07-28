@@ -2,13 +2,11 @@ import React from 'react';
 
 function ButtonLink(props) {
     // props => { className: "o que alguém passar", href: "/"}
-
-    return (
-        <nav href={props.href} className={props.className}>
-            {props.children}
-        </nav>
-
-    );
+  return (
+    <a href={props.href} className={props.className}>
+      {props.children}
+    </a>
+  );
 }
 
 export default ButtonLink;
