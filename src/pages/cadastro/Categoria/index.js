@@ -38,7 +38,7 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    const URL = 'http://localhost:8080/categorias';
+    const URL = 'https://wanderluster-alura.herokuapp.com/categorias';
     fetch(URL).then(async (resServidor) => {
       const resposta = await resServidor.json();
       setCategorias([
