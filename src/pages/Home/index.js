@@ -22,6 +22,7 @@ function Home() {
       {dadosIniciais.length === 0 && (<div>Loading...</div>)}
 
       {dadosIniciais.map((categoria, indice) => {
+        console.log(dadosIniciais);
         if (indice === 0) {
           return (
             <div key={categoria.id}>
