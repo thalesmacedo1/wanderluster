@@ -1,207 +1,174 @@
 {
   "categorias": [
     {
-      "id": 1,
-      "titulo": "Front End",
-      "cor": "#6BD1FF",
+      "titulo": "Via Infinda",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#a1a000",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      }
+        "text": "Vídeos mais populares do Via Infinda",
+        "url": "https://www.youtube.com/channel/UCkIEY6rUSPy4qQjLqBBLUSg/videos?view=0&sort=p&flow=grid"
+      },
+      "videos": [
+        {
+          "titulo": "Voando DRONE na praia mais bonita de Bali | Surf Uluwatu",
+          "url": "https://www.youtube.com/watch?v=NkQSvKBBrVg"
+        },
+        {
+          "titulo": "Um país SEM IMPOSTOS",
+          "url": "https://www.youtube.com/watch?v=6F-zP6HbnEs"
+        },
+        {
+          "titulo": "SEJA CARA DE PAU E O MUNDO É SEU!",
+          "url": "https://www.youtube.com/watch?v=WKXTuRVCBYE"
+        },
+        {
+          "titulo": "COMO COMER DE GRAÇA NO SHOPPING (mcdonalds, burguer king...)",
+          "url": "https://www.youtube.com/watch?v=cGrq8BT1fww"
+        },
+        {
+          "titulo": "APRENDA INGLÊS EM 1 ANO SOZINHO (como eu aprendi sozinho)",
+          "url": "https://www.youtube.com/watch?v=s1f__pp8ycM"
+        }        
+      ]
     },
     {
-      "id": 2,
-      "titulo": "Back End",
+      "titulo": "Almir Júnior",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      }
+        "text": "Vídeos mais populares do Almir Júnior",
+        "url": "https://www.youtube.com/c/almirjuniorcom/videos?view=0&sort=p&flow=grid"
+      },
+      "videos": [
+        {
+          "titulo": "Voando DRONE na praia mais bonita de Bali | Surf Uluwatu",
+          "url": "https://www.youtube.com/watch?v=lGHOTHE2QXA"
+        },
+        {
+          "titulo": "MUDANÇA DE VIDA: VOCÊ VIVE PARA TRABALHAR OU TRABALHA PARA VIVER?",
+          "url": "https://www.youtube.com/watch?v=S8sVzzvq_Nw"
+        },
+        {
+          "titulo": "DESERTO do ATACAMA, CHILE: Uma AVENTURA pelo VALLE DE LA LUNA",
+          "url": "https://www.youtube.com/watch?v=ozgMbr8OGV8"
+        },
+        {
+          "titulo": "Como GANHAR DINHEIRO viajando [7 DICAS de OURO para VIAJAR e SER LIVRE]",
+          "url": "https://www.youtube.com/watch?v=ABJVmzuhCT8"
+        },
+        {
+          "titulo": "Como VIAJAR BARATO | 7 PAÍSES em 30 DIAS com 4 EUROS por DIA",
+          "url": "https://www.youtube.com/watch?v=s4Ji25Kmg6M"
+        }        
+      ]
     },
     {
-      "id": 3,
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Almir Júnior",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/cursos-online-mobile"
-      }
+        "text": "Vídeos mais populares do Almir Júnior",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+        },
+        {
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        },
+        {
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        }
+      ]
     },
     {
-      "id": 4,
-      "titulo": "Filmes",
-      "cor": "orange"
-    },
-    {
-      "id": 5,
-      "titulo": "Games",
+      "titulo": "Mundo Sem Fim",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      }
-    }
-  ],
-  "videos": [
+        "text": "Vídeos mais populares do Mundo Sem Fim",
+        "url": "https://www.youtube.com/c/MundoSemFim/videos?view=0&sort=p&flow=grid"
+      },
+      "videos": [
+        {
+          "titulo": "COMO É UM SUPERMERCADO NA CHINA! Preços e produtos estranhos",
+          "url": "https://www.youtube.com/watch?v=zhRGe_Cr6j8"
+        },
+        {
+          "titulo": "PRIMEIRO DIA NA COREIA DO NORTE | Parte 1",
+          "url": "https://www.youtube.com/watch?v=W4qAqhB7v-o"
+        },
+        {
+          "titulo": "MAR DE ARAL - O MAR QUE VIROU DESERTO",
+          "url": "https://www.youtube.com/watch?v=4W2tT_Oi2LY"
+        },
+        {
+          "titulo": "UMA CIDADE DEVASTADA PELA GUERRA | Stalingrado",
+          "url": "https://www.youtube.com/watch?v=GuKDigZpPGQ"
+        },
+        {
+          "titulo": "CRUZANDO A FRONTEIRA PRO UZBEQUISTÃO | Primeiras impressões",
+          "url": "https://www.youtube.com/watch?v=zb8S_Xcp624"
+        }
+      ]
+    },
+    
     {
-      "id": 1,
-      "categoriaId": 1,
-      "titulo": "SEO com React",
-      "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+      "titulo": "William Mochila e Violão",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Vídeos mais populares do William Mochila e Violão",
+        "url": "https://www.youtube.com/c/MochilaeViol%C3%A3o/videos?view=0&sort=p&flow=grid"
+      },
+      "videos": [
+        {
+          "titulo": "MOCHILEIRO EM LONDRES (CAMDEN TOWN) | REINO UNIDO | AMY WINEHOUSE",
+          "url": "https://www.youtube.com/watch?v=r5v9rTauYMM"
+        },
+        {
+          "titulo": "Brasileiro viajando A PÉ pelo mundo | Bélgica",
+          "url": "https://www.youtube.com/watch?v=L5V9SD2JxJ4"
+        },
+        {
+          "titulo": "Encontrei o AMOR da minha VIDA",
+          "url": "https://www.youtube.com/watch?v=GSAiISPDQFE"
+        },
+        {
+          "titulo": "Mochileiro ANDARILHO Viajando o MUNDO SOZINHO",
+          "url": "https://www.youtube.com/watch?v=tJeEW4yZkLM"
+        },
+        {
+          "titulo": "Tentaram ME ROUBAR e ainda me machuquei",
+          "url": "https://www.youtube.com/watch?v=fZoyljqji9g"
+        }
+      ]
     },
     {
-      "id": 2,
-      "categoriaId": 1,
-      "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
-    },
-    {
-      "id": 3,
-      "categoriaId": 1,
-      "titulo": "Componentização com VanillaJS #AluraMais",
-      "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
-    },
-    {
-      "id": 4,
-      "categoriaId": 1,
-      "titulo": "Pare de chutar e aprenda a display: inline #01",
-      "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
-    },
-    {
-      "id": 5,
-      "categoriaId": 1,
-      "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-      "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-    },
-    {
-      "id": 6,
-      "categoriaId": 1,
-      "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-    },
-    {
-      "id": 7,
-      "categoriaId": 1,
-      "titulo": "Novidades do Angular v9",
-      "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-    },
-    {
-      "id": 8,
-      "categoriaId": 2,
-      "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-      "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-    },
-    {
-      "id": 9,
-      "categoriaId": 2,
-      "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-      "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-    },
-    {
-      "id": 10,
-      "categoriaId": 2,
-      "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-      "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-    },
-    {
-      "id": 11,
-      "categoriaId": 2,
-      "titulo": "API: Dicionário do Programador",
-      "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-    },
-    {
-      "id": 12,
-      "categoriaId": 2,
-      "titulo": "Usando Git Direito",
-      "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-    },
-    {
-      "id": 13,
-      "categoriaId": 3,
-      "titulo": "Teste de Turing",
-      "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
-    },
-    {
-      "id": 14,
-      "categoriaId": 3,
-      "titulo": "O que é Data Science?",
-      "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-    },
-    {
-      "id": 15,
-      "categoriaId": 3,
-      "titulo": "Melhor forma de aprender Python",
-      "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-    },
-    {
-      "id": 16,
-      "categoriaId": 3,
-      "titulo": "Como ingressar no mercado de Data Science?",
-      "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-    },
-    {
-      "id": 17,
-      "categoriaId": 4,
-      "titulo": "Interestellar",
-      "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-    },
-    {
-      "id": 18,
-      "categoriaId": 4,
-      "titulo": "Gattaca",
-      "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-    },
-    {
-      "id": 19,
-      "categoriaId": 4,
-      "titulo": "A Chegada",
-      "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-    },
-    {
-      "id": 20,
-      "categoriaId": 4,
-      "titulo": "Feitiço do Tempo",
-      "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-    },
-    {
-      "id": 21,
-      "categoriaId": 5,
-      "titulo": "Final Fantasy 7",
-      "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-    },
-    {
-      "id": 22,
-      "categoriaId": 5,
-      "titulo": "Assassins Creed Valhalla",
-      "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-    },
-    {
-      "id": 23,
-      "categoriaId": 5,
-      "titulo": "God of War 4",
-      "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-    },
-    {
-      "id": 24,
-      "categoriaId": 5,
-      "titulo": "Resident Evil 8",
-      "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-    },
-    {
-      "titulo": "Vicarious by Tool",
-      "url": "https://www.youtube.com/watch?v=mg-ERheCn6A",
-      "id": 25
-    },
-    {
-      "titulo": "Vicarious by Tool",
-      "url": "https://www.youtube.com/watch?v=mg-ERheCn6A",
-      "id": 26
-    },
-    {
-      "titulo": "Vicarious by Tool",
-      "url": "https://www.youtube.com/watch?v=mg-ERheCn6A",
-      "categoriaId": 1,
-      "id": 27
+      "titulo": "Outros Canais",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "MORRO DE SÃO PAULO, Bahia (Aéreas Drone)",
+          "url": "https://www.youtube.com/watch?v=jsrLNW7Vr5E"
+        },
+        {
+          "titulo": "SALVADOR na BAHIA (Como você nunca viu! Drone)",
+          "url": "https://www.youtube.com/watch?v=LCpU4DgMXzA"
+        },
+        {
+          "titulo": "Um Drone no Comércio, Salvador, Bahia, Brasil",
+          "url": "https://www.youtube.com/watch?v=5MhPgOtOWH4"
+        },
+        {
+          "titulo": "Um Drone na Ilha dos Frades, Ponta de Nossa Senhora de Guadalupe, Salvador, Bahia, Brasil",
+          "url": "https://www.youtube.com/watch?v=wFmm-eT4gcE"
+        }
+      ]
     }
   ]
 }
