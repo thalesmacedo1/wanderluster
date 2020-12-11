@@ -3,7 +3,7 @@
     {
       "id": 1,
       "titulo": "Mercado Livre",
-      "cor": "yellow",
+      "cor": "#FFD733",
       "link_extra": {
         "text": "Segurança no Mercado Livre"
       }
