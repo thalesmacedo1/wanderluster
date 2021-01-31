@@ -1,168 +1,174 @@
 {
   "categorias": [
     {
-      "id": 1,
-      "titulo": "Mercado Livre",
-      "cor": "#FFD733",
+      "titulo": "Via Infinda",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#a1a000",
       "link_extra": {
-        "text": "Segurança no Mercado Livre"
-      }
+        "text": "Vídeos mais populares do Via Infinda",
+        "url": "https://www.youtube.com/channel/UCkIEY6rUSPy4qQjLqBBLUSg/videos?view=0&sort=p&flow=grid"
+      },
+      "videos": [
+        {
+          "titulo": "Voando DRONE na praia mais bonita de Bali | Surf Uluwatu",
+          "url": "https://www.youtube.com/watch?v=NkQSvKBBrVg"
+        },
+        {
+          "titulo": "Um país SEM IMPOSTOS",
+          "url": "https://www.youtube.com/watch?v=6F-zP6HbnEs"
+        },
+        {
+          "titulo": "SEJA CARA DE PAU E O MUNDO É SEU!",
+          "url": "https://www.youtube.com/watch?v=WKXTuRVCBYE"
+        },
+        {
+          "titulo": "COMO COMER DE GRAÇA NO SHOPPING (mcdonalds, burguer king...)",
+          "url": "https://www.youtube.com/watch?v=cGrq8BT1fww"
+        },
+        {
+          "titulo": "APRENDA INGLÊS EM 1 ANO SOZINHO (como eu aprendi sozinho)",
+          "url": "https://www.youtube.com/watch?v=s1f__pp8ycM"
+        }        
+      ]
     },
     {
-      "id": 2,
-      "titulo": "Olx",
-      "cor": "#6BD1FF",
+      "titulo": "Almir Júnior",
+      "cor": "#00C86F",
       "link_extra": {
-        "text": "Segurança na Olx"
-      }
+        "text": "Vídeos mais populares do Almir Júnior",
+        "url": "https://www.youtube.com/c/almirjuniorcom/videos?view=0&sort=p&flow=grid"
+      },
+      "videos": [
+        {
+          "titulo": "Voando DRONE na praia mais bonita de Bali | Surf Uluwatu",
+          "url": "https://www.youtube.com/watch?v=lGHOTHE2QXA"
+        },
+        {
+          "titulo": "MUDANÇA DE VIDA: VOCÊ VIVE PARA TRABALHAR OU TRABALHA PARA VIVER?",
+          "url": "https://www.youtube.com/watch?v=S8sVzzvq_Nw"
+        },
+        {
+          "titulo": "DESERTO do ATACAMA, CHILE: Uma AVENTURA pelo VALLE DE LA LUNA",
+          "url": "https://www.youtube.com/watch?v=ozgMbr8OGV8"
+        },
+        {
+          "titulo": "Como GANHAR DINHEIRO viajando [7 DICAS de OURO para VIAJAR e SER LIVRE]",
+          "url": "https://www.youtube.com/watch?v=ABJVmzuhCT8"
+        },
+        {
+          "titulo": "Como VIAJAR BARATO | 7 PAÍSES em 30 DIAS com 4 EUROS por DIA",
+          "url": "https://www.youtube.com/watch?v=s4Ji25Kmg6M"
+        }        
+      ]
     },
     {
-      "id": 3,
-      "titulo": "Email",
+      "titulo": "Almir Júnior",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Segurança em Email"
-      }
+        "text": "Vídeos mais populares do Almir Júnior",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+        },
+        {
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        },
+        {
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        }
+      ]
     },
     {
-      "id": 4,
-      "titulo": "E-Commerce",
-      "cor": "orange",
-      "link_extra": {
-          "text": "Segurança no E-Commerce"
-      }
-    },
-    {
-      "id": 5,
-      "titulo": "Bancos",
+      "titulo": "Mundo Sem Fim",
       "cor": "red",
       "link_extra": {
-        "text": "Segurança Web-Bank"
-      }
+        "text": "Vídeos mais populares do Mundo Sem Fim",
+        "url": "https://www.youtube.com/c/MundoSemFim/videos?view=0&sort=p&flow=grid"
+      },
+      "videos": [
+        {
+          "titulo": "COMO É UM SUPERMERCADO NA CHINA! Preços e produtos estranhos",
+          "url": "https://www.youtube.com/watch?v=zhRGe_Cr6j8"
+        },
+        {
+          "titulo": "PRIMEIRO DIA NA COREIA DO NORTE | Parte 1",
+          "url": "https://www.youtube.com/watch?v=W4qAqhB7v-o"
+        },
+        {
+          "titulo": "MAR DE ARAL - O MAR QUE VIROU DESERTO",
+          "url": "https://www.youtube.com/watch?v=4W2tT_Oi2LY"
+        },
+        {
+          "titulo": "UMA CIDADE DEVASTADA PELA GUERRA | Stalingrado",
+          "url": "https://www.youtube.com/watch?v=GuKDigZpPGQ"
+        },
+        {
+          "titulo": "CRUZANDO A FRONTEIRA PRO UZBEQUISTÃO | Primeiras impressões",
+          "url": "https://www.youtube.com/watch?v=zb8S_Xcp624"
+        }
+      ]
     },
+    
     {
-      "id": 6,
-      "titulo": "Apps",
-      "cor": "pink",
+      "titulo": "William Mochila e Violão",
+      "cor": "#6b5be2",
       "link_extra": {
-        "text": "Segurança Mobile"
-      }
-    }
-  ],
-  "videos": [
-    {
-      "id": 1,
-      "categoriaId": 1,
-      "titulo": "10 Dicas de Especialistas Para Se Proteger Na Internet",
-      "url": "https://www.youtube.com/watch?v=skd9WzulAuo"
+        "text": "Vídeos mais populares do William Mochila e Violão",
+        "url": "https://www.youtube.com/c/MochilaeViol%C3%A3o/videos?view=0&sort=p&flow=grid"
+      },
+      "videos": [
+        {
+          "titulo": "MOCHILEIRO EM LONDRES (CAMDEN TOWN) | REINO UNIDO | AMY WINEHOUSE",
+          "url": "https://www.youtube.com/watch?v=r5v9rTauYMM"
+        },
+        {
+          "titulo": "Brasileiro viajando A PÉ pelo mundo | Bélgica",
+          "url": "https://www.youtube.com/watch?v=L5V9SD2JxJ4"
+        },
+        {
+          "titulo": "Encontrei o AMOR da minha VIDA",
+          "url": "https://www.youtube.com/watch?v=GSAiISPDQFE"
+        },
+        {
+          "titulo": "Mochileiro ANDARILHO Viajando o MUNDO SOZINHO",
+          "url": "https://www.youtube.com/watch?v=tJeEW4yZkLM"
+        },
+        {
+          "titulo": "Tentaram ME ROUBAR e ainda me machuquei",
+          "url": "https://www.youtube.com/watch?v=fZoyljqji9g"
+        }
+      ]
     },
     {
-      "id": 2,
-      "categoriaId": 1,
-      "titulo": "Vendi no Mercado Livre e não sei o que fazer - Veja o passo a passo para não cair em golpes",
-      "url": "https://www.youtube.com/watch?v=VkOYIyh0wXk"
-    },
-    {
-      "id": 3,
-      "categoriaId": 1,
-      "titulo": "Cuidado: 2 tipos de golpe de “compradores” no Mercado Livre",
-      "url": "https://www.youtube.com/watch?v=mMrVj11E1w0"
-    },
-    {
-      "id": 4,
-      "categoriaId": 1,
-      "titulo": "Como vender com segurança no Mercado Livre",
-      "url": "https://www.youtube.com/watch?v=PJui3-vPe_k"
-    },
-    {
-      "id": 5,
-      "categoriaId": 2,
-      "titulo": "OLX, me ajuda? Como fazer uma negociação segura",
-      "url": "https://www.youtube.com/watch?v=vmgSBuz0mt8"
-    },
-    {
-      "id": 6,
-      "categoriaId": 2,
-      "titulo": "Golpe do falso pagamento",
-      "url": "https://www.youtube.com/watch?v=HAWO77c3XTA"
-    },
-    {
-      "id": 7,
-      "categoriaId": 2,
-      "titulo": "Dicas de Segurança na Internet",
-      "url": "https://www.youtube.com/watch?v=Q25jmqBdI3Y"
-    },
-    {
-      "id": 8,
-      "categoriaId": 3,
-      "titulo": "Como enviar e receber e-mails com segurança",
-      "url": "https://www.youtube.com/watch?v=fF_kmSXrSp0"
-    },
-    {
-      "id": 9,
-      "categoriaId": 3,
-      "titulo": "Email seguro: O que fazer para ficar em segurança?",
-      "url": "https://www.youtube.com/watch?v=bVqpSsfbI7Q"
-    },
-    {
-      "id": 10,
-      "categoriaId": 3,
-      "titulo": "Cuidado! Aprenda identificar um e-mail malicioso!",
-      "url": "https://www.youtube.com/watch?v=xcZy_W_naZ0"
-    },
-    {
-      "id": 11,
-      "categoriaId": 4,
-      "titulo": "O que são selos de segurança e por que tê-los na minha loja?",
-      "url": "https://www.youtube.com/watch?v=yZgKrG-TZ78"
-    },
-    {
-      "id": 12,
-      "categoriaId": 4,
-      "titulo": "Como comprar com segurança na internet! Fuja de golpes",
-      "url": "https://www.youtube.com/watch?v=v-uUwCrsNWw"
-    },
-    {
-      "id": 13,
-      "categoriaId": 4,
-      "titulo": "Como fazer compras pela internet com segurança?",
-      "url": "https://www.youtube.com/watch?v=QqqJtr-7DUk"
-    },
-    {
-      "id": 14,
-      "categoriaId": 5,
-      "titulo": "5 golpes e fraudes para evitar",
-      "url": "https://www.youtube.com/watch?v=copfH2m8ts4"
-    },
-    {
-      "id": 15,
-      "categoriaId": 5,
-      "titulo": "Dicas de Segurança para acessar o banco na internet [Dicas] - Baixaki",
-      "url": "https://www.youtube.com/watch?v=KVK6oy8rbis"
-    },
-    {
-      "id": 16,
-      "categoriaId": 5,
-      "titulo": "Cuidado! Novo Golpe de SMS falso de banco",
-      "url": "https://www.youtube.com/watch?v=bjVADnqrfhY"
-    },
-    {
-      "id": 17,
-      "categoriaId":6,
-      "titulo": "Série golpes - Evitar golpe no aplicativo 'WhatsApp'",
-      "url": "https://www.youtube.com/watch?v=ipO7RlyTHEI"
-    },
-    {
-      "id": 18,
-      "categoriaId":6,
-      "titulo": "Cuidado com a clonagem!! 3 Truques para proteger seu Whatsapp!!",
-      "url": "https://www.youtube.com/watch?v=NjQ5Mem23II"
-    },
-    {
-      "id": 19,
-      "categoriaId":6,
-      "titulo": "Auxílio Emergencial - GOLPE APLICATIVO FALSO - Como Não Cair Nessa",
-      "url": "https://www.youtube.com/watch?v=21EjGhv2bdo"
+      "titulo": "Outros Canais",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "MORRO DE SÃO PAULO, Bahia (Aéreas Drone)",
+          "url": "https://www.youtube.com/watch?v=jsrLNW7Vr5E"
+        },
+        {
+          "titulo": "SALVADOR na BAHIA (Como você nunca viu! Drone)",
+          "url": "https://www.youtube.com/watch?v=LCpU4DgMXzA"
+        },
+        {
+          "titulo": "Um Drone no Comércio, Salvador, Bahia, Brasil",
+          "url": "https://www.youtube.com/watch?v=5MhPgOtOWH4"
+        },
+        {
+          "titulo": "Um Drone na Ilha dos Frades, Ponta de Nossa Senhora de Guadalupe, Salvador, Bahia, Brasil",
+          "url": "https://www.youtube.com/watch?v=wFmm-eT4gcE"
+        }
+      ]
     }
   ]
 }
