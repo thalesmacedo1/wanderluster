@@ -7,7 +7,7 @@
 > Projeto construido durante a [Imersão React da Alura](https://www.alura.com.br/imersao-react/)
 
 ## VERSÃO ONLINE:
-[WANDERLUSTER ON VERCEL](wanderluster.vercel.app)
+[WANDERLUSTER ON VERCEL](https://www.wanderluster.vercel.app)
 
 ## Como rodar o projeto?
 
